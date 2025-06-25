@@ -1,0 +1,8 @@
+# Lingkungan virtual Python
+venv/
+__pycache__/
+*.pyc
+
+# File yang dihasilkan oleh bot/panel
+bot.pid
+bot.log
