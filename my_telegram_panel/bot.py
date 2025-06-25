@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from telegram.constants import ParseMode
 
 # --- KONFIGURASI ---
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" 
+BOT_TOKEN = "7598471876:AAFIkArHcK45kk0i7Qtchi7rVfBQ5ks55RM" 
 PID_FILE = "bot.pid"
 LOG_FILE = "bot.log"
 
